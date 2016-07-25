@@ -1,0 +1,8 @@
+name: BookCommands
+main: org.inventivetalent.bookcommands.BookCommands
+author: inventivetalent
+version: ${project.version}
+
+commands:
+  commandbook:
+    aliases: [bookcommand, givemeacommandbook]

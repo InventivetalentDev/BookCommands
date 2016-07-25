@@ -1,0 +1,5 @@
+# Book Title
+bookTitle: &6Command Book
+
+# Require books to be signed
+requireSigned: true
